@@ -1,0 +1,33 @@
+.main-container{
+    margin-top: 25px;
+    margin-bottom: 250px;
+}
+
+.element-margin{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.button-color{
+
+   background: #ffc107;
+}
+.body-color{
+
+    background: #f8f9fa;
+    padding: 10px 35px 15px 35px;
+}
+.card-row{
+    margin: 15px 0px 0px 0px;
+}
+.dop-color{
+    background: #f1f5f2;
+    background: #14281d;
+    background: #c2a878;
+    background: #355834;
+    background: #6e633d;
+    background: #b6174b;
+    background: #d1603d;
+    background: #44633f;
+     /*цвет кнопки*/ background: #ffc107;
+    /*цвет дополнительного фона*/  background: #f8f9fa;
+}
